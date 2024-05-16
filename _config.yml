@@ -1,6 +1,6 @@
 title: "Mariah N. Culpepper"
 author: "Mariah Culpepper"
-description: ![Duke University Wordmark]("assets/duke_wordmark_white.png")
+description: ![Duke University Wordmark]("../assets/duke_wordmark_white.png")
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
