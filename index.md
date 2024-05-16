@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: ""
 ---
 
 Hello! My name is Mariah, a junior at Duke University studying Biology and Computer Science.
