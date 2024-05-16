@@ -11,7 +11,8 @@ When I'm not in class, I love solving puzzles, singing, and creating as much as 
 
 ### Work Experience
 ### Education
-<p>**Duke University** <br>_August 2022 - May 2026_</p>
+**Duke University**
+_August 2022 - May 2026_
 Bachelor in Biology and Computer Science. Durham, NC
 - **Relevant Coursework:** Molecular Biology, Genetics and Evolution, Data Structures and Algorithms
 
