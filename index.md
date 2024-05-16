@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<img src="assets/headshot.png" alt="Headshot" width="200" height="200">
+<img src="assets/headshot.png" alt="Headshot" width="100" height="100">
 
 Hello! My name is Mariah, a junior at *Duke University* studying **Biology** and **Computer Science**. Currently, I am focused on computational biology and biomedical engineering research. 
 
