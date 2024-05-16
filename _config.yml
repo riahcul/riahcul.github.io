@@ -17,8 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "cv.pdf", title: "CV"}
+  - {title: "Lab", url: "https://sites.google.com/view/john-w-hickey/home?authuser=0"}
+  - {file: "index.html", title: "Home"}
+  - {file: "README.md", title: "About}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cmariah034@gmail.com"}
