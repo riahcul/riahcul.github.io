@@ -7,5 +7,3 @@ Hello! My name is Mariah, a junior at *Duke University* studying **Biology** :dn
 Currently, I am focused on computational biology and biomedical engineering research. 
 
 When I'm not in class, I love solving puzzles, singing, and creating as much as I can! This is a [test](https://play2048.co/) :love_letter:
-
-![Duke University Wordmark](assets/duke_wordmark_white.png)
