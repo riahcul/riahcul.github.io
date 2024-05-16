@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.pdf", title: "CV"}
+  - {file: "/CV.pdf", title: "CV"}
   - {title: "Lab", url: "https://sites.google.com/view/john-w-hickey/home?authuser=0"}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "About"}
