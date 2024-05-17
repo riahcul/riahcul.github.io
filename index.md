@@ -13,3 +13,5 @@ Outside of school, I love solving puzzles, vocal performance, and creating art! 
 _August 2022 - May 2026_ <br />
 B.S. in Biology and Computer Science. Durham, NC <br />
 - **Relevant Coursework:** Molecular Biology, Genetics and Evolution, Data Science (Python & R), Data Structures and Algorithms
+
+icon: envelope
