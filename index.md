@@ -13,9 +13,9 @@ When I'm not in class, I love solving puzzles, singing, and creating as much as 
 ### Education
 **Duke University** <br />
 _August 2022 - May 2026_ <br />
-Bachelor in Biology and Computer Science. Durham, NC <br />
-- **Relevant Coursework:** Molecular Biology, Genetics and Evolution, Data Structures and Algorithms
+B.S. in Biology and Computer Science. Durham, NC <br />
+- **Relevant Coursework:** Molecular Biology, Genetics and Evolution, Data Science (Python & R), Data Structures and Algorithms
 
 ### Experience
-**Rosetta Commons REU**
+**Rosetta Commons REU** <br />
 _May 2024 - Present_
