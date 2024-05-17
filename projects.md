@@ -24,5 +24,5 @@ Practice with predictive modeling, linear regression, and utilizing **Python** f
 #### Broad Summer Research Program
 #### Center for the Development of Therapeutics, Biochemistry/Biophysics
 _June 2023 - August 2023_
-.... Presented at the Annual Biomedical Research Conference for Minoritized Scientists 2023, Phoenix, AZ & gave a [poster](../assets/poster.pdf) and oral presentation at the Broad Institute. 
+.... Presented at the Annual Biomedical Research Conference for Minoritized Scientists 2023, Phoenix, AZ & gave a [poster](../assets/BSRP_poster.pdf) and oral presentation at the Broad Institute. 
 
