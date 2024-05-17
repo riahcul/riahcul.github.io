@@ -4,8 +4,8 @@ title: "Projects"
 ---
 
 ### Protein Design and Modeling
-#### Rosetta Commons REU - National Science Foundation <br />
-#### Institute of Protein Design, University of Washington
+  #### Rosetta Commons REU - National Science Foundation <br />
+  #### Institute of Protein Design, University of Washington
 _May 2024 - Present_  <br />
 Blurb about program, highlighting **PyRosetta** and **Python** as skills I learned further. <br />
 Talking about the project I worked on. <br><br>
