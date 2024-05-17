@@ -12,7 +12,7 @@ Talking about the project I worked on. <br><br>
 
 ### Pan-Organ Cancer Cell Analysis
 #### Duke University Biomedical Engineering 
-#### PI: John Hickey
+#### [Hickey Lab](https://sites.google.com/view/john-w-hickey/home)
 _February 2024 - Present_  <br />
 Creating data visualizations using **R** and computational approaches in order to something something spatialomics. <br><br>
 
