@@ -18,7 +18,7 @@ Creating data visualizations using **R** and computational approaches in order t
 
 ### Exploring the Relationship Between Breast Cancer, Ethnicity, and Other Health Constituents to Analyze Accuracy of Predictive Modeling
 #### Everything Data (CS216) Project, Spring 2024
-Practice with predictive modeling, linear regression, and utilizing **Python** for data science. <br><br>
+Practice with predictive modeling, linear regression, and utilizing **Python** for [data science](https://github.com/niarobin/CS-216-Project). <br><br>
 
 ### Broad Institute of MIT and Harvard
 #### Broad Summer Research Program
