@@ -6,12 +6,12 @@ title: "Projects"
 ### Protein Design and Modeling
 #### Rosetta Commons REU - National Science Foundation | Institute of Protein Design, University of Washington 
 _May 2024 - Present_  <br />
-Incoming intern, excited to learn **PyRosetta**, a software created by Johns Hopkins University researchers. I am planning on being exposed to a protein design and deep learning project, furthering my computational biology skills. <br><br>
+Incoming intern, excited to learn **PyRosetta**, a software created by Johns Hopkins University researchers. I am planning on being part of a protein design and deep learning project, broadening my computational biology skills. <br><br>
 
 ### Pan-Organ Cancer Cell Type Analysis
 #### Duke University Biomedical Engineering | [Hickey Lab](https://sites.google.com/view/john-w-hickey/home)
 _February 2024 - Present_  <br />
-Creating data visualizations using **R** and computational approaches to further the field of spatial-omics. Building an atlas that aims to analyze tumor progression and the spatial distance of interacting cells. Differentiating diseased cells and healthy cells within various tissues. Synthesizing research in the field of immunoengineering for applications in bioinformatics. <br><br>
+Creating data visualizations using **R** and computational approaches to further the field of spatial-omics. I am building an atlas that aims to analyze tumor progression and interacting cell types in various organs. I am also synthesizing research in the field of immunoengineering for applications in bioinformatics. <br><br>
 
 ### Exploring the Relationship Between Breast Cancer, Ethnicity, and Other Health Constituents to Analyze Accuracy of Predictive Modeling
 #### Everything Data (CS216) Project, Spring 2024
