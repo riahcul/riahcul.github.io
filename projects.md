@@ -15,7 +15,7 @@ Creating data visualizations using **R** and computational approaches to further
 
 ### Exploring the Relationship Between Breast Cancer, Ethnicity, and Other Health Constituents to Analyze Accuracy of Predictive Modeling
 #### Everything Data (CS216) Project, Spring 2024
-In this group project, I created data visualizations and analysis using a Duke University [dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6839867/#:~:text=Breast%20cancers%20in%20the%20Tanzanian,in%20the%20white%20American%20group) through **Python**, specifically **Seaborns**. I then created a logistic regression model in order to predict tumor size and did hypothesis testing as well as finding confidence intervals using **scikit-learn**. Utilizing **Python** for [data science](https://github.com/niarobin/CS-216-Project). <br><br>
+Working with a team, I created data visualizations and analysis using a Duke University [dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6839867/#:~:text=Breast%20cancers%20in%20the%20Tanzanian,in%20the%20white%20American%20group) through **Python**, specifically **Seaborns**. I then created a logistic regression model in order to predict tumor size and did hypothesis testing as well as finding confidence intervals using **scikit-learn**. Utilizing **Python** for [data science](https://github.com/niarobin/CS-216-Project). <br><br>
 
 ### Broad Institute of MIT and Harvard
 #### Broad Summer Research Program | Center for the Development of Therapeutics, Biochemistry/Biophysics
