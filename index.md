@@ -4,7 +4,7 @@ title: ""
 ---
 <img src="assets/hs.png" alt="Headshot" width="150" height="150"> 
 
-Hello! My name is Mariah, a junior at **Duke University** studying **Biology** and **Computer Science**. <br /> Currently, I am focused on biomedical engineering and protein design research.👩🏾‍🔬🧬 I aim to pursue a PhD and take a multidisciplinary approach to contribute to our understanding of cancer.  <br><br>
+Hello! My name is Mariah, a senior at **Duke University** studying **Biology** and **Computer Science**. <br /> Currently, I am focused on biomedical engineering and protein design research.👩🏾‍🔬🧬 I aim to pursue a PhD and take a multidisciplinary approach to contribute to our understanding of cancer.  <br><br>
 
 Outside of school, I love solving puzzles, vocal performance, and creating art! Feel free to see how I explore my interests further on my blog. More information on my work experience can be found on my projects page. <br><br>
 
