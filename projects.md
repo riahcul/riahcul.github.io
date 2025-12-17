@@ -3,6 +3,10 @@ layout: page
 title: "Projects"
 ---
 
+### Predicting Cancer Cell Line Drug Sensitivity with Ensemble Machine Learning Models
+#### Introduction to Applied Machine Learning (CS372) Project, Fall 2025
+This project aims to accurately predict the response variable ln(IC50) based off of gene expression data, drug data, and mutation data. IC50 is the concentration that a drug needs to be at to reduce cancer cell growth by 50%. By combining datasets that paint a picture of the landscape of cell line-drug interactions, we are able to use ElasticNet, RandomForest, MLP, and ensemble models for this regression task.
+
 ### Protein Design and Modeling
 #### Rosetta Commons REU - National Science Foundation | Institute of Protein Design, University of Washington 
 _May 2024 - Present_  <br />
